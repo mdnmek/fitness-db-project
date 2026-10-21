@@ -19,7 +19,8 @@
 * `sql/01_schema.sql` — скрипты создания структуры БД (таблицы, связи, ключи).
 * `sql/02_insert_test_data.sql` — скрипты заполнения таблиц тестовыми данными.
 * `sql/03_simple_queries.sql` — скрипты на простые выборки и фильтрации (SELECT, WHERE, ORDER BY, LIKE).
-* `sql/04_group_queries.sql` — скрипты с использованем агрегаций и группировки (COUNT, SUM, AVG, GROUP BY)
+* `sql/04_group_queries.sql` — скрипты с использованем агрегаций и группировки (COUNT, SUM, AVG, GROUP BY).
+* `sql/05_join_queries.sql` — скрипты на соединение таблиц (INNER JOIN, LEFT JOIN).
 * `docs` — папка с ER-диаграммой проекта.
 
 ## ER-диаграмма
